@@ -1,0 +1,21 @@
+//Variables, old way// 
+
+
+var life = 100 ; // life bar, NUMBER
+
+life = life -10;
+
+var name = "kay" ; // text that appears on screen, STRING
+
+var checkout = true; // a switch that relates to posotive or negative feedback, BOOLEAN
+
+
+var box; // a variable with no value or use assingned, UNDEFINED
+
+var box = null; // a variable with a value of nothing but its still there, NULL
+
+
+
+
+
+console.log(life) ;
